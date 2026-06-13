@@ -21,4 +21,4 @@ The task yielded clear and meaningful visualizations that successfully highlight
 ## Deliverables Included
 * `Task-02.ipynb` (Jupyter Notebook containing the visualization code)
 * Exported visualization images: `bar_chart.png`, `histogram.png`, `scatter_plot.png`, `pairplot.jpg`, `heatmap.png`
-* Demonstration Video Link: `coming soon`
+* Demonstration Video Link: `https://drive.google.com/file/d/1i-Yj0CBIbPdLop1L4aJ-PnQFF8nKceFy/view?usp=sharing`
